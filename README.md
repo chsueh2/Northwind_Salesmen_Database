@@ -2,6 +2,7 @@
 
 Load Northwind sales data from a sqlite database and summarize the the data by sale agents' gender, education, experience level and regions.
 
+[Project report](https://htmlpreview.github.io/?https://raw.githubusercontent.com/chsueh2/Northwind_Salesmen_Database/main/northwind_sales.html)
 
 Key features:
 
@@ -21,7 +22,7 @@ Modules used:
 
 ## Project Report
 
-[Project report](https://htmlpreview.github.io/?https://raw.githubusercontent.com/chsueh2/Online_Shoppers_Purchasing_Intention/main/online_shoppers.html) ([Jupyter Notebook](./onorthwind_sales.ipynb))
+[Project report](https://htmlpreview.github.io/?https://raw.githubusercontent.com/chsueh2/Northwind_Salesmen_Database/main/northwind_sales.html) ([Jupyter Notebook](./northwind_sales.ipynb))
 
 The analysis results with theoretical backgrounds are included.
 
