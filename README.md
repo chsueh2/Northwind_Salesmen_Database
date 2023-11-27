@@ -50,13 +50,13 @@ Fit machine learning models including logistic regression and two tree-based cla
    - describe their main strength and something they can improve upon
 4. Suggestions
 
-![](./image1.png)
+![](./images/image1.png)
 
-![](./image2.png)
+![](./images/image2.png)
 
-![](./image3.png)
+![](./images/image3.png)
 
-![](./image4.png)
+![](./images/image4.png)
 
 
 
